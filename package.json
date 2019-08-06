@@ -1,0 +1,38 @@
+{
+  "name": "agency",
+  "version": "1.0.0",
+  "description": "Amid Slim Agency",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "natives": "^1.1.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat-css": "^3.0.0",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-js-minify": "0.0.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.2.1",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-sftp": "^0.1.5",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-webserver": "^0.9.1",
+    "prettier": "^1.12.1",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okal.ihor@gmail.com",
+  "license": "ISC"
+}
